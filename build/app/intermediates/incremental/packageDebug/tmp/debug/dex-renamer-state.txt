@@ -1,0 +1,4 @@
+#Thu Mar 17 13:20:55 IST 2022
+base.0=/Users/payelpaul/StudioProjects/airplaneticket/build/app/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+path.0=classes.dex
